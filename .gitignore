@@ -1,0 +1,12 @@
+# 개인 메모 데이터
+memos.json
+backup/
+data/
+
+# 빌드 결과
+*.exe
+*.pdb
+
+# 임시 파일
+*.tmp
+*.bak
